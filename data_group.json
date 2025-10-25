@@ -1,0 +1,1 @@
+[{"createTime":"2023-12-02T18:36:45+08:00","id":"1d832a33-c4a3-41f6-aa59-e82824c260f3","name":"报警接口","setting":{"dbName":"报警接口","driverType":"MySQL","ip":"192.168.1.1","password":"gh284310551","port":1,"username":"admin"},"type":"db"}]
